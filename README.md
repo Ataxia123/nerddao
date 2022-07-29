@@ -1,5 +1,8 @@
 # NERD_BRAIN [🧠🧠🧠🤓](https://y.at/🧠🧠🧠🤓)
 
+[![hackmd-github-sync-badge](https://hackmd.io/N-cc-8wnQYyXG-QA-1bAnw/badge)](https://hackmd.io/N-cc-8wnQYyXG-QA-1bAnw)
+
+
 
 
 ## FAQ
