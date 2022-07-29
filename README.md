@@ -1,70 +1,115 @@
-# Getting Started with Create React App
+# NERD_BRAIN [🧠🧠🧠🤓](https://y.at/🧠🧠🧠🤓)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## FAQ
 
-### `npm start`
+***What is this Place?***
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+***THIS The Nerd_Brain. IT IS A LIVING DOCUMENT MEANT TO HELP COORDINATE WHATS GOING ON ON THE NERDAO***
 
-### `npm test`
+***IF YOU ARE HERE YOU ARE A NERD AND CAN EDIT, FORMAT AND ADD ANY CONTENT YOU LIKE***
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+***WE ARE GOING TO KEEP A PERMANENT RECORD AT LOBBY.SO ONCE THIS DOCUMENT MATURES***
 
-### `npm run build`
+***What is NERDAO?***
+NerdDAO is a collective of friends who are exploring the InterChain
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Anyone can join the DAO there are no membership tokens or gates. You can participate as much/as little as you want. The only rule is that you must have fun.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+***How to Contribute?***
 
-### `npm run eject`
+***Join our communities!*** If you have an idea or a question share it. We thrive on collaboration and making you succeed in this brave new world.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+***Collaborate*** Feel free to create a new entry for your project or community and collaborate in growing the Nerd_Brain.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+***Invite NERDs*** Spread the word and help us connect with more nerds all over the world.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## [Nerd Friends Directory](https://hackmd.io/cKROW20ATGGW5G2rDBPS7g)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# NERD COMMUNITIES [🧠🧠🧠🤓](https://y.at/🧠🧠🧠🤓)
 
-### Analyzing the Bundle Size
+## NERD ROOMS
+- The Nerd Quarters🤓✉️🤓[@Telegram](https://y.at/🤓✉️🤓)
+- The Nerd Quarters[@Discord](https://discord.gg/hzTwEKHJ)
+- TheNerdLabs[@Twitter](https://twitter.com/theNerdLabs)
+- Nerd Fungible Trust[@Telegram](https://t.me/+YE-Zg2_l5k01MGEx)
+- SquiggleGang [Builders ONLY]: 
+- The Nerd Quarters@[GatherTown ](https://app.gather.town/app/dVAYOjR3rgb18sm7/NerdCon)
+- NerdCon Center@ [GatherTown ](https://app.gather.town/app/dVAYOjR3rgb18sm7/NerdCon)
+    
+### Projects
+- StrudelDAO[🌪🌪👀](https://y.at/🌪🌪👀): [WorkGroup link](https://hackmd.io/8nPPceRkS9aCR-lmEbXgDQ?both)
+    - ***Description:*** An integrated DeFi Ecosystem built on BTC
+    - ***Products***
+        - Strudel: https://strudel.finance
+        - Orkan: https://orkan.finance
+        - MitiCushqui:[🏦💰💵](https://y.at/🏦💰💵)
+- [RubixDAO:](https://rubixdao.com/#) [WorkGroup Link](https://hackmd.io/uO7PGOGcQma-98D6NF84Aw?both)
+- RegenzNFT: https://regenz.io 
+- Ludus
+    - Webpage: https://ludus.io 
+    - Workgroup:[WorkGroup Link](https://hackmd.io/jWZZIKT-ShijP7chhHMr0Q?both)
+- CriptoMu: https://play.criptomu.online
+- GoodMorningNews: https://goodmorningnews.club
+- 4854.0ne: https://4854.one/
+- Proof Of Adventure: [WorkGroup Link](https://hackmd.io/tpeHpmbNS6GNGX100WL_qA?both)
+- [NerdCon:](https://app.gather.town/app/dVAYOjR3rgb18sm7/NerdCon) 
+    - Workgroup: [Link](https://hackmd.io/vG0np9j4RXChBsJyp3tODg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [ADD YOUR PROJECT] 
+    
 
-### Making a Progressive Web App
+### Frens
+- Stacked Labs https://t.me/+wIiE2YkgSk0zNTFh
+- BuidlGuild - Scaffold-ETH builder's Chat: https://t.me/joinchat/F7nCRK3kI93PoCOk
+- Plat's Shitcoin Emporium: https://t.me/+EJV0mPZtc4dkZjgx
+- [ADD YOUR TELEGRAM COMMUNITY]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+    
+## Nerd DAO 
+- [***NERDQUARTERS***🤓✉️🤓](https://y.at/🤓✉️🤓)-
+- [***NERD BRAIN***🧠🧠🧠🤓]( https://y.at/🧠🧠🧠🤓)
+- [***NERD TWITTER:*** :bird:    ](https://twitter.com/theNerdLabs)
+- [***DISCORD***:handshake: ](https://discord.gg/hzTwEKHJ)
+- [***Daily Journal***:book: ](https://hackmd.io/@Nerd-Brain/Mar_11)     
 
-### Advanced Configuration
+***POSITION OPEN***
+***Want to help run the NerdDAO comms?***
+    
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+***NERD DAO LOBBY** 
+Lobby.so is a Web3 wiki where daos can create permanent content
 
-### Deployment
+[Link:scroll:](https://beta.lobby.so/nerd)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### NerdCon:stadium: 
+ [Coordination Group link:stadium: 
+](https://hackmd.io/vG0np9j4RXChBsJyp3tODg)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# HowToDev: 
+
+👩‍🏫 Learn how to build on Ethereum; the superpowers and the gotchas.
+
+🎥 Watch this quick video as an [Intro to Ethereum Development.](https://www.youtube.com/watch?v=MlJPjJQZtC8)
+
+Then use [🏗 Scaffold-ETH](https://github.com/scaffold-eth/scaffold-eth#-scaffold-eth) to copy/paste each Solidity concept and tinker:
+
+global units, primitives, mappings, structs, modifiers, events,
+inheritance, sending eth, and payable/fallback functions.
+
+🧑‍🚀 When you are ready to test your knowledge, [speed run Ethereum](https://speedrunethereum.com/)
+
+
+
+
