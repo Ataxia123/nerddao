@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknerd_website=self.webpackChunknerd_website||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"strudel","permalink":"/blog/tags/strudel","count":1},{"label":"bitcoin","permalink":"/blog/tags/bitcoin","count":1}]')}}]);
