@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://your-docusaurus-test-site.com/nerddao/blog</id>
     <title>Nerd DAO Hub Blog</title>
     <updated>2019-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/nerddao/blog"/>
     <subtitle>Nerd DAO Hub Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://your-docusaurus-test-site.com/nerddao/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Strudel Bitcoin Investment Briefing]]></title>
         <id>strudel-briefing</id>
-        <link href="https://your-docusaurus-test-site.com/blog/strudel-briefing"/>
+        <link href="https://your-docusaurus-test-site.com/nerddao/blog/strudel-briefing"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Strudel Bridge]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-strudel-bridge">The Strudel Bridge<a class="hash-link" href="#the-strudel-bridge" title="Direct link to heading">​</a></h2><p><strong>By eliminating the need for custodial control of assets</strong> that come with typical wrappers, the Strudel protocol trades off counter-party risk for market risk while using <strong>market dynamics, crypto-economic incentives, and cross-chain capabilities</strong> to maintain a pegged, scalable, and capital-efficient ecosystem. This one-of-a-kind economic approach offers average users and big money investors numerous options for monetary growth and grants more diversity and security to DeFi.</p><h1>Problem Statement</h1><p><strong>Bitcoin</strong>  is poorly incorporated into web3. The existing landscape relies mainly on wBTC, a trusted bridge operated primarily by funds such as 3AC, which have the exclusive right to mint and burn wBTC, therefore cornering the benefit of the arbitrage between on-chain BTC and legacy markets.</p><p>Vitalik <a href="https://twitter.com/VitalikButerin/status/1295252403558559746?s=20&amp;t=UvAU_6bfaNeaIVcafixefg" target="_blank" rel="noopener noreferrer">has stated</a> that trusted BTC bridges pose a systemic risk to the DeFi ecosystem. I would go even further and say that DeFi cannot grow until its intimately integrated with BTC and we capture a significant % of the BTC network on-chain. To achieve this goal, we must find a robust solution to bridge many BTC into the Web3 economy.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-on-chain-bitcoin-landscape">The On Chain Bitcoin Landscape<a class="hash-link" href="#the-on-chain-bitcoin-landscape" title="Direct link to heading">​</a></h2><p><a href="https://dune.com/eliasimos/btc-on-ethereum_1" target="_blank" rel="noopener noreferrer">Updated Dashboard</a>

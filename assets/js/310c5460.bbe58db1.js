@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknerd_website=self.webpackChunknerd_website||[]).push([[225],{9798:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/bitcoin","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
