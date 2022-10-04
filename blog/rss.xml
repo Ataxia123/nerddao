@@ -4,10 +4,21 @@
         <title>Nerd DAO Hub Blog</title>
         <link>https://your-docusaurus-test-site.com/nerddao/blog</link>
         <description>Nerd DAO Hub Blog</description>
-        <lastBuildDate>Sun, 02 Oct 2022 12:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 23:49:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[NerdOS Delegation Blog]]></title>
+            <link>https://your-docusaurus-test-site.com/nerddao/blog/NerdOS-Assemble</link>
+            <guid>NerdOS-Assemble</guid>
+            <pubDate>Mon, 03 Oct 2022 23:49:35 GMT</pubDate>
+            <description><![CDATA[The NerdOS delegation has been officially funded by our colleagues from the EthereansPL delegation. Thank you frens! This marks the official start of NerdOS work to further the EthereansOS cause. We're really excited to be able to contribute.]]></description>
+            <content:encoded><![CDATA[<p>The NerdOS delegation has <a href="https://discord.com/channels/652132797032562689/982816033037508618/1026600173280960542" target="_blank" rel="noopener noreferrer">been officially</a> funded by our colleagues from the EthereansPL delegation. Thank you frens! This marks the official start of NerdOS work to further the EthereansOS cause. We're really excited to be able to contribute.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="async-deworking">Async Deworking<a class="hash-link" href="#async-deworking" title="Direct link to heading">​</a></h2><p>Now that we have been funded it is time to create incentive structures that allow us to complete the delegation's goals. In order to contribute start by joining the <a href="https://https://y.at/%F0%9F%A4%93%E2%9C%89%EF%B8%8F%F0%9F%A4%93" target="_blank" rel="noopener noreferrer">NerdQuarters</a>. if you want to learn more about Ethereans ask a question! We need all types of contributors both technical and non technical. As we increase our team size and complexity we will start utilizing more coordination tools. </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="coordinaping">Coordinaping<a class="hash-link" href="#coordinaping" title="Direct link to heading">​</a></h2><p>Our goal is to create a flexible incentive structure that rewards all types of contributions fairly. Coordinape allows project members to allocate rewards to their teammates based on their contributions to the project. This allows anyone with an idea related to our stated goal to contribute and be rewarded.</p><p><img loading="lazy" src="https://i.imgur.com/8kc0vl4.png" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-now">What Now?<a class="hash-link" href="#what-now" title="Direct link to heading">​</a></h2><p><a href="https://ataxia123.github.io/nerddao/blog/nerd-delegation" target="_blank" rel="noopener noreferrer">As we outlined</a> in our delegation genesis post the NerdOS delegation has 3 main goals</p><p>1) Utilizing and showcasing the use of EthOS protocol on products developed by Nerd</p><p>2) Creating a starter kit to simplify developing interfaces with EthOS products</p><p>3) Organizing events to communicate the goals of the protocol, create products that leverage the EthOS stack and showcase products and communities built on it</p><p>If you think you can help us achieve these goals reach out! We will create teams for specific projects and then distribute rewards collectively.</p>]]></content:encoded>
+            <category>nerd</category>
+            <category>OS</category>
+            <category>delegation</category>
+        </item>
         <item>
             <title><![CDATA[Infinite Universe Alliance Announcement]]></title>
             <link>https://your-docusaurus-test-site.com/nerddao/blog/infinite-universe</link>
