@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "NERD COMMUNITIES 🧠🧠🧠🤓",
+              "path": "/docs/NERD COMMUNITIES 🧠🧠🧠🤓",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Projects/miticushqui",
+              "path": "/docs/Projects/miticushqui",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Projects/NerdCon 🧠🧠🧠🤓",
+              "path": "/docs/Projects/NerdCon 🧠🧠🧠🤓",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Projects/rubixDAO",
+              "path": "/docs/Projects/rubixDAO",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
