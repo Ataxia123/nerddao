@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknerd_website=self.webpackChunknerd_website||[]).push([[544],{6454:e=>{e.exports=JSON.parse('{"label":"Intellectual_property","permalink":"/nerddao/blog/tags/intellectual-property","allTagsPath":"/nerddao/blog/tags","count":1}')}}]);
